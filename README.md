@@ -149,9 +149,7 @@ The analysis helps answer important business questions such as:
 All important analysis visualizations are stored in the `images` folder.
 
 Example:
-![Sales Analysis](images/sales_analysis.png)
-
-> Replace `sales_analysis.png` with the actual image filename from your `images` folder.
+(images/sales_analysis.png)
 
 ---
 
